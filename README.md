@@ -1,2 +1,2 @@
-# read-me
-# https://cdn.discordapp.com/avatars/784871460261855232/a_27092a52d6c92cf8c42039a446e80350.gif?size=4096 
+# https://cdn.discordapp.com/icons/779512241640570920/02d45e73417bfbd663c17e403898cd24.png?size=4096
+on bd
